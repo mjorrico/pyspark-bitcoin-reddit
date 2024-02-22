@@ -20,8 +20,8 @@ Before actually contextualizing the Spark (and Hadoop) containers, make sure eve
 2. Clone this repository then `cd` into it and get in super user mode.
 
     ```bash
-    $ git clone https://github.com/sepehrmhd97/Data-Engineering-1-Project.git
-    $ cd Data-Engineering-1-Project
+    $ git clone https://github.com/mjorrico/pyspark-bitcoin-reddit.git
+    $ cd pyspark-bitcoin-reddit
     $ sudo bash
     ```
 
